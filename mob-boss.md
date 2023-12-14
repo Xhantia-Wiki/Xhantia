@@ -1,6 +1,6 @@
 !Immagine qui
   
-<table border="1" cellpadding="4" cellspacing="0" width="70%"><tbody>
+<table border="1" cellpadding="4" cellspacing="0" width="100%"><tbody>
 
 <tr>
 <td style="text-align:center;"><b> ///NOME BOSS/// &nbsp;</b></td>
@@ -15,7 +15,7 @@
 </tr>
 
 <tr>
-<td style="text-align: center;">&nbsp;<b>Razza</b>: RAZZA QUI </td>
+<td style="text-align: center;">&nbsp;<b>     Razza</b>: RAZZA QUI </td>
 </tr>
 
 <tr>
