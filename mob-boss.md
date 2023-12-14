@@ -15,8 +15,8 @@
 </tr>
 
 <tr>
-<<td>div align="center">&nbsp;<b>     Razza</b>: RAZZA QUI </td>
-</tr>
+<td><div align="center">&nbsp;<b>Razza</b>: RAZZA QUI </td>
+</tr
 
 <tr>
 <td><div align="center">&nbsp;<b>Elemento</b>: ELEMENTO QUI </td>
@@ -27,15 +27,15 @@
 </tr>
 
 <tr>
-<td><div align="center"> QUA I BONUS UTILI </div></td>
+<td><div align="left"> QUA I BONUS UTILI </div></td>
 </tr></tbody>
 
 <tr>
-<td><div style="text-align: center;">&nbsp;<b>DROP POSSIBILI</b>:&nbsp;</div></td>
+<td><div align="center"><b>DROP POSSIBILI</b>:&nbsp;</div></td>
 </tr>
 
 <tr>
-<td><div style="text-align: left;">&nbsp; QUI I DROP &nbsp;</div></td>
+<td><div align="left"> QUI I DROP &nbsp;</div></td>
 </tr>
 
 </table>
