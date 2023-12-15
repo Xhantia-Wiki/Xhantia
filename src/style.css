@@ -26,6 +26,7 @@ nav {
     background: #fff;
     height: 52px;
     width: 100%;
+    align-content: center;
     position: fixed;
     top: 0;
     left: 0;
