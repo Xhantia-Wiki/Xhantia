@@ -19,11 +19,11 @@ body{
     width: 100%;
     height: 60px;
     line-height: 60px;
-    background-color: yellow;
+    background: yellow;
 }
 
 nav {
-    background: #000;
+    background: #fff;
     height: 52px;
     width: 100%;
     position: fixed;
@@ -52,4 +52,15 @@ nav ul li {
     float: left;
     width: 20%;
     text-align: center;
+}
+
+nav ul li:hover ul{
+    display: block;
+}
+
+nav ul li li {
+    position: relative;
+    float: none;
+    width: 100%;
+    border: none;
 }
