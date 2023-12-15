@@ -64,3 +64,30 @@ nav ul li li {
     width: 100%;
     border: none;
 }
+
+nav ul li a {
+    display: block;
+    text-decoration: none;
+    color: black;
+    padding: 15px 25px;
+    font-size: 1.2em;
+    box-sizing: border-box;
+    border-right: solid 2px #000;
+    border-left: solid 2px #000;
+}
+
+nav ul ul li a {
+    font-size: 1rem;
+    border-bottom: solid 2px #000;
+}
+
+nav ul ul li:first child a {
+    border-top: solid 2px #000;
+}
+
+nav ul li:hover a {
+    background: red;
+    color: blue;
+    text-decoration: none;
+    transition: 0.5s;
+}
