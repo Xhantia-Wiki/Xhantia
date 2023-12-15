@@ -1,0 +1,38 @@
+<p align="center"> <img width="1000" height="280" src="QUI IL LINK IMMAGINE">
+</p>
+  
+<table border="1" cellpadding="4" cellspacing="0" width="100%"><tbody>
+
+<tr>
+<td><div align="center"><b> QUI IL NOME DEL DUNGEON </b></td>
+</tr>
+
+<tr>
+<td><div align="center"><b>CHIAVE DI ACCESSO</b>: QUI LA CHIAVE DI ACCESSO </td>
+</tr>
+
+<tr>
+<td><div align="center"><b>LIVELLO RICHIESTO</b>: QUI IL LIVELLO RICHIESTO </td>
+</tr>
+
+<tr>
+<td><div align="center"><b>[[TALISMANI]] SUGGERITI</b>: QUI IL TALISMANO UTILE </td>
+</tr>
+
+<tr>
+<td><div align="center"> QUI LA BREVE DESCRIZIONE DEL DUNGEON </td>
+</tr>
+
+<tr>
+<td><div align="center"><b>SVOLGIMENTO</b> </td>
+</tr>
+
+<tr>
+<td><div align="center"> QUI LA SPIEGAZIONE DEL DUNGEON </td>
+</tr>
+
+<tr>
+<td><div align="center"> QUI LA LISTA DEI POSSIBILI DROP </td>
+</tr>
+
+</table>
