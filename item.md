@@ -1,7 +1,7 @@
 <p align="center"> <img width="80" height="80" src="LINK IMMAGINE QUI">
 </p>
   
-<table border="1" cellpadding="4" cellspacing="0" width="100%"><tbody>
+<div align="center"><table border="1" cellpadding="4" cellspacing="0" width="100%"><tbody>
 
 <tr>
 <td><div align="center"><b> NOME QUI </b></td>
