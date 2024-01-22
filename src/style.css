@@ -1,5 +1,5 @@
 body{
-    background-image: url("/Xhantia/img/bg.jpg");
+    background-image: none;/* url("/Xhantia/img/bg.jpg"); */
     background-repeat: no-repeat;
     background-attachment: fixed;
     width: 100%;
