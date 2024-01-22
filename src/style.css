@@ -1,9 +1,9 @@
 body{
-    background-image: none;/* url("/Xhantia/img/bg.jpg"); */
+    background-image: none;/*url("/Xhantia/img/bg.jpg");*/
     background-repeat: no-repeat;
     background-attachment: fixed;
-    width: 100%;
-    height: 100%;
+    width: 80%;
+    height: 80%;
     border-radius: 10px 10px 10px 10px;
     padding-top: 50px;
     padding-bottom: 50px;
